@@ -1,5 +1,8 @@
 # todos-mobx
 
+A to-do implementation using [MobX](https://github.com/mobxjs/mobx) and [mobx-vue](https://github.com/mobxjs/mobx-vue).
+
+
 ## Project setup
 ```
 npm install
@@ -15,10 +18,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
